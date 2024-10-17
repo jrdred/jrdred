@@ -46,18 +46,13 @@ jrdred@github:~$ ./welcome.sh
 -------------------------
 🏫 MsC Biology student @Adamson
 🔎 Main interests in eco-evo-devo and Bioinformatics stuffs and
-🔭 Working on Deep Learning based cybersecurity solutions
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, C/C++, Java 
-🏴‍☠️ Currently involved in CTF competitions and sysadmin tasks
-🚩 Interested in network security and web security
 💖 In a complicated relationship with Life
 🖌️ Love drawing portraits and cute stuff, cycling, going to concerts
 🎵 Love R&B/Soul, Hip-Hop/Rap and Pop
 ⚡ Love Friend Chicken, Steak, Pizza and I HATE KETCHUP, MAYONNAISE,
 MUSTARD and RANCH
-💻 Total commits: {{ COMMITS }}
-⭐ Total stars gained: {{ STARS }}
+☠️ Scared of the unstoppable marching of time that is
+slowly guiding us all towards an inevitable death
 ```
 
 
