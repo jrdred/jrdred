@@ -45,7 +45,7 @@ jrdred@github:~$ ./welcome.sh
 
 -------------------------
 🏫 MsC Biology student @Adamson
-🔎 Main interests in eco-evo-devo and Bioinformatics stuffs and
+🔎 Main interests in eco-evo-devo and Bioinformatics stuffs
 💖 In a complicated relationship with Life
 🎵 Love R&B/Soul, Hip-Hop/Rap and Pop
 ⚡ Love Friend Chicken, Steak, Pizza and I HATE KETCHUP, MAYONNAISE,
